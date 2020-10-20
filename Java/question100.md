@@ -12,4 +12,3 @@ No validator could be found for constraint 'javax.validation.constraints.NotBlan
 </code></pre>  
 -  引用资料
 [no-validator-could-be-found-for-constraint-javax-validation-constraints-notblan](https://stackoverflow.com/questions/52878299/no-validator-could-be-found-for-constraint-javax-validation-constraints-notblan)
-

@@ -6,6 +6,7 @@ https://github.com/wayneliquan/IndexMe
   ## 安装node.js
   ## 安装gitbook
 ```
+
 npm install gitbook-cli -g
 ```
   ## 3. 运行项目
@@ -19,3 +20,4 @@ gitbook serve
 ```
   ### 后台运行
 `setsid gitbook serve . `
+

@@ -2,6 +2,7 @@
 	"title" : "IndexMe",
 	"author" : "wayneliquan",
 	"description" : "我的指引",
+	"language": "zh-hans",
 	"plugins": ["expandable-chapters-small"
 		, "back-to-top-button"
 		, "splitter"
@@ -11,6 +12,7 @@
 		, "insert-logo"
 		, "custom-favicon"
 		, "popup"
+		, "editlink"
 	],
 	"pluginsConfig": {
   	"hide-element": {
@@ -25,5 +27,9 @@
         "style": "background: none; max-height: 30px; min-height: 30px"
     }
 		,"favicon": "./images/favicon.ico"
+		,"editlink": {
+				"base": "https://github.com/wayneliquan/IndexMe/blob/master/",
+      	"label": "编辑本页"
+    }
   }
 }
