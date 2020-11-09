@@ -1,0 +1,1 @@
+/home/zlq/Common/BaiduNetdiskDownload/职场进阶_Java架构直通车/资料/git/architect-stage-1-monolith/第1阶段单体架构/foodie-shop-dev.sql

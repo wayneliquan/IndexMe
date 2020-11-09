@@ -40,7 +40,7 @@ Linux 基本命令--文件操作
 | 命令 | 说明             |
 | :--: | ---- |
 |   zip | 压缩成.zip包 |
-|   unzip| 解压.zip包 |
+|   unzip| 解压.zip包 <br/>unzip -O cp936 解决中文乱码问题 |
 |   tar| 压缩/解压.tar包 |
 |   gzip| 压缩成.gz包 |
 ## 查找
