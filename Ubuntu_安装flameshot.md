@@ -14,4 +14,4 @@ sudo apt install flameshot
 
 
 
-![image-20201127134533655](/home/zlq/Common/GitBook/IndexMe/日常操作记录/images/flameshot/image-20201127134533655.png)
+![image-20201127134533655](images/flameshot/image-20201127134533655.png)
